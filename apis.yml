@@ -2,7 +2,7 @@ aid: ducommun
 url: https://raw.githubusercontent.com/api-evangelist/ducommun/refs/heads/main/apis.yml
 name: Ducommun
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Aerospace
   - Defense
@@ -19,7 +19,7 @@ apis:
       - Aerospace
       - Defense
       - Manufacturing
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://api.ducommun.com
     humanURL: https://developer.ducommun.com
     properties:
